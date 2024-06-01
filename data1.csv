@@ -1,0 +1,11 @@
+1,India,44,44000,yes
+2,Russia,63,55605,no
+3,Israel,38,42325,yes
+4,India,41,,no
+5,Russia,65,63254,yes
+6,Israel,,12548,yes
+7,India,28,96523,no
+8,Russia,39,,no
+9,Israel,,66322,yesS/no,Country,Age,Salary,Purchased
+
+10,India,63,75415,no
